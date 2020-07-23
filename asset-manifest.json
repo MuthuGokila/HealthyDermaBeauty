@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/HealthyDermaBeauty/static/css/main.5f05969b.chunk.css",
+    "main.js": "/HealthyDermaBeauty/static/js/main.e0103a97.chunk.js",
+    "main.js.map": "/HealthyDermaBeauty/static/js/main.e0103a97.chunk.js.map",
+    "runtime-main.js": "/HealthyDermaBeauty/static/js/runtime-main.38a9f59c.js",
+    "runtime-main.js.map": "/HealthyDermaBeauty/static/js/runtime-main.38a9f59c.js.map",
+    "static/css/2.de424728.chunk.css": "/HealthyDermaBeauty/static/css/2.de424728.chunk.css",
+    "static/js/2.293679eb.chunk.js": "/HealthyDermaBeauty/static/js/2.293679eb.chunk.js",
+    "static/js/2.293679eb.chunk.js.map": "/HealthyDermaBeauty/static/js/2.293679eb.chunk.js.map",
+    "index.html": "/HealthyDermaBeauty/index.html",
+    "precache-manifest.d472bff0aa79d7f0b92c04e18a7bf688.js": "/HealthyDermaBeauty/precache-manifest.d472bff0aa79d7f0b92c04e18a7bf688.js",
+    "service-worker.js": "/HealthyDermaBeauty/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/HealthyDermaBeauty/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f05969b.chunk.css.map": "/HealthyDermaBeauty/static/css/main.5f05969b.chunk.css.map",
+    "static/js/2.293679eb.chunk.js.LICENSE.txt": "/HealthyDermaBeauty/static/js/2.293679eb.chunk.js.LICENSE.txt",
+    "static/media/CustomizedFacial.png": "/HealthyDermaBeauty/static/media/CustomizedFacial.0661d0cf.png",
+    "static/media/HairDo.png": "/HealthyDermaBeauty/static/media/HairDo.b5b63bbb.png",
+    "static/media/HairStyle.png": "/HealthyDermaBeauty/static/media/HairStyle.75003232.png",
+    "static/media/Makeup.png": "/HealthyDermaBeauty/static/media/Makeup.2a3adc0a.png",
+    "static/media/Mehand2.png": "/HealthyDermaBeauty/static/media/Mehand2.01301b97.png",
+    "static/media/Mehandi1.png": "/HealthyDermaBeauty/static/media/Mehandi1.9b24b1ad.png",
+    "static/media/SareeDropping.png": "/HealthyDermaBeauty/static/media/SareeDropping.ecbb6f57.png",
+    "static/media/SkinTreatment.png": "/HealthyDermaBeauty/static/media/SkinTreatment.4c762861.png",
+    "static/media/certificate.pdf": "/HealthyDermaBeauty/static/media/certificate.80ced765.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a9f59c.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.293679eb.chunk.js",
+    "static/css/main.5f05969b.chunk.css",
+    "static/js/main.e0103a97.chunk.js"
+  ]
+}
