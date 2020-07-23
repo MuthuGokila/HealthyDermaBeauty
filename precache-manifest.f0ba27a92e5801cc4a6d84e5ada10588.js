@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aff108edf5636bcf7e1af918dc15d078",
+    "revision": "821b008db527a09c7c335da27544093c",
     "url": "/HealthyDermaBeauty/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HealthyDermaBeauty/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "567d2e0986ca1aef5b2c",
+    "revision": "d6f323c6040a898e746a",
     "url": "/HealthyDermaBeauty/static/css/main.5f05969b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HealthyDermaBeauty/static/js/2.293679eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "567d2e0986ca1aef5b2c",
-    "url": "/HealthyDermaBeauty/static/js/main.e0103a97.chunk.js"
+    "revision": "d6f323c6040a898e746a",
+    "url": "/HealthyDermaBeauty/static/js/main.4e0f8026.chunk.js"
   },
   {
     "revision": "30d72e54d615c1ead702",

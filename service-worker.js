@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HealthyDermaBeauty/precache-manifest.d472bff0aa79d7f0b92c04e18a7bf688.js"
+  "/HealthyDermaBeauty/precache-manifest.f0ba27a92e5801cc4a6d84e5ada10588.js"
 );
 
 self.addEventListener('message', (event) => {
