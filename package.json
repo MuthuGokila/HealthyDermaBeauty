@@ -3,7 +3,7 @@
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://MuthuGokila.github.io/HealthyDermaBeauty",
+  "homepage": "http://MuthuGokila.github.io/HealthyDermaBeauty",
   "author": {},
   "dependencies": {
     "@popperjs/core": "^2.1.1",

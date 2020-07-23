@@ -70,6 +70,9 @@ const AboutMe = () => {
                 </a>
               </p>
             )}
+            <p href="https://gmail.com" className="fa fa-envelope-square" style={{color:'red'}}> { "Reach me at healthydermabeauty@gmail.com"}</p>
+
+  
           </div>
         </div>
       </div>
