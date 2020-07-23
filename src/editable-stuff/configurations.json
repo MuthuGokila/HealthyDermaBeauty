@@ -1,0 +1,50 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB, #008000,ffff00",
+  "FirstName": "Healthy",
+  "MiddleName": "Derma",
+  "LastName": "Beauty",
+  "devDesc": "| Makeup Artist | Mehandi Artist | Youtuber | Asthetician ",
+  "icons": [
+   {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/muthugokila_mua-104174934398750/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://instagram.com/muthugokila_artistry?igshid=1qfnw343ih6sz",
+      "style": "socialicons",
+      "color": "Red"
+    },
+    {
+      "id": 3,
+      "image": "fa-youtube",
+      "url": "https://m.youtube.com/channel/UCCqOEax3Xm0aN7hlgd9Hvcw",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-google",
+      "url": "healthydermabeauty@gmail.com",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "hashirshoaeb",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Hey Guys, This is Muthu Gokila and I'm a certified beautician from Chennai, India and have very good experience in Medhandi, Hair Style, Hair Do, Make-Up, Saree Dropping, Skin Care. Kindly contact me in above link.",
+  "projectHeading": "Health & Beauty",
+ 
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "hashirshoaeb",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 1,
+  "showNavigationbar": true,
+  "showBlog": false
+}
